@@ -1,0 +1,8 @@
+nome,cognome,username,password_hash,salt,iterazioni_hashing,luogo_domicilio,ruolo,data_nascita
+Luigi,Verdi,luigiverdi,LYDggzOMowJgethXmhmmEDa6QA9oxfCuUdh4hTFK7a0=,W91WOTB+4sqiCmcIRhHCZQ==,620000,Varese,PROIEZIONISTA,
+Mario,Rossi,mariorossi,Bi+yIPv5gKk/5dbGKCZqBlZxnHryCuOoDBp17fDpcuE=,IOPfdlM2OchcvgnCZWm5Gw==,620000,Varese,PROIEZIONISTA,
+Maria,Salvatore,mariasalva,ve+ui8KSmNnSwSHd2V+E2kQK7tivEXhcEJXOuI5S9HI=,CVSzbhLDVAWe0mAaivV5Aw==,620000,Como,BIGLIETTAIO,
+Matteo,Bianchi,matteo,8wgREQj7UBLyq7EtgwaXj8VhA3ZJeaTBrEHbeapAvYU=,/PaY0orjWad+3z7+owPAhQ==,620000,Como,BIGLIETTAIO,
+Matteo,Crespi,crespi2,jk3V7wQQ0qLZzPYlTdDlC2hAEostGeZN6SOGQWJX++s=,WMQ4WeZMJaPcxWfp9nGJmw==,620000,Como,BIGLIETTAIO,
+Marco,Castelli,castelli04,+v105FDvaz+CLEOxpRuvTPIPITjjEr/z/QGWzqvUQuk=,BW9O9Lni3UAF455Ox8DecQ==,620000,Como,BIGLIETTAIO,
+Matilde,Monte,maty01,bHwuc99F0tpfXotCZA+13+rwr7bpYTU/R5yYRG4NF7o=,E7ZoGbRIqS1giDY8c9Ilpw==,620000,Como,BIGLIETTAIO,
